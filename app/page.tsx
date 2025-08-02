@@ -10,8 +10,8 @@ export default function MinimalModernPortfolio() {
 		<div className="min-h-screen bg-black text-white">
 			<HeroSection />
 			<SkillsSection />
-			<ContactSection />
 			<ProjectsSection />
+			<ContactSection />
 		</div>
 	);
 }

@@ -54,7 +54,7 @@ export default function ContactSection() {
 				>
 					{/* GitHub */}
 					<a
-						href="https://github.com/DaWae404"
+						href="https://github.com/AalveeAhtav"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="flex flex-col items-center gap-2 p-4 bg-white/5 rounded-xl hover:bg-white/10 transition-colors"

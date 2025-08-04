@@ -11,7 +11,7 @@ const projects = [
     description: "A Java program which will determine all possible flight plans for a person wishing to travel between two different cities by an airline (assuming a flight path exists). Also filters out the top 3 flights either by cost or time using Iterative Backtracking.",
     image: '/flights.png',
     tools: ['Java', 'Iterative Backtracking'],
-	repo: 'https://github.com/DaWae404/Flight_Project',
+	  repo: 'https://github.com/AalveeAhtav/Flight_Project',
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const projects = [
     description: "Navigate through a complex containing various locations. Also find the shortest path using Dijkstra’s algorithm from one location to another.",
     image: '/complex.png',
     tools: ['Java', 'Dijkstra’s Algorithm'],
-	repo: 'https://github.com/DaWae404/Complex-Game',
+	  repo: 'https://github.com/AalveeAhtav/Complex-Game',
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projects = [
     description: "Designed with Python utilizing its various libraries. Keeps track of hit or missed targets and shows accuracy.",
     image: '/aim_trainer.png',
     tools: ['Python'],
-	repo: 'https://github.com/DaWae404/aim-trainer-python',
+	  repo: 'https://github.com/AalveeAhtav/aim-trainer-python',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const projects = [
     description: 'Designed with React and JavaScript to show real time Weather information using OpenWeather’s API.',
     image: '/weather_app.png',
     tools: ['React', 'JavaScript', 'OpenWeather API'],
-	repo: 'https://github.com/DaWae404/weather_app_react',
+	  repo: 'https://github.com/AalveeAhtav/weather_app_react',
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const projects = [
     description: `AI-powered tool to upload and analyze financial report PDFs with real-time data extraction, chatbot Q&A, and visual dashboards. Supports tables, images, and charts via Unstructured.io with optimized prompt tuning for accuracy and performance.`,
     image: '/finsight.png',
     tools: ['Python', 'Flask', 'React', 'JavaScript', 'OpenAI API', 'Next.js'],
-	repo: 'https://github.com/Aproteem/HACK-AI-2.5',
+	  repo: 'https://github.com/Aproteem/HACK-AI-2.5',
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const projects = [
     description: 'Terminal-based hangman game with Spiderman ASCII animations. Built in C++ with custom game logic and UI.',
     image: '/spooderman.png',
     tools: ['C++', 'ASCII Art'],
-	repo: 'https://github.com/DaWae404/DallasCollege-SpoodermanGame',
+	  repo: 'https://github.com/AalveeAhtav/DallasCollege-SpoodermanGame',
   },
 ];
 
